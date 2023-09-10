@@ -1,1 +1,1 @@
-# THE-BEST
+Este é meu primeiro projeto que fiz para um trabalho da faculdade que estou cursando. Se trata de um sistema para o estoque de uma loja de eletrônicos, cria funções para adicionar, atualizar, consultar e excluir os produtos. Utilize dicionários aninhados para armazenar as informações, sendo elas: nome, preço e quantidade dos produtos em estoque.
